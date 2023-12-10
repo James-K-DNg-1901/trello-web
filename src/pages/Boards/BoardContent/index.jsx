@@ -1,4 +1,4 @@
-import Box from '@mui/material/Boxs'
+import Box from '@mui/material/Box'
 
 function BoardContent() {
   return (
